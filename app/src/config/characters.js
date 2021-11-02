@@ -1,4 +1,5 @@
-export default [
+
+export const characters = [
   {
     id: 'plumber',
     title: 'Mario',
@@ -72,3 +73,9 @@ export default [
       'Jigglypuff is a Pokémon character who was included because of its popularity in Japan. Initially Pit from Kid Icarus was going to take its place though due to the fact that not many people knew the character he was replaced with Jigglypuff. Jigglypuff was initially infamous because of the misconception that it was the weakest character in the game, though its true potential can be seen by its variety of special attacks. The character can be unlocked by completing single player mode with any number of stock remaining.'
   }
 ]
+
+
+
+
+
+
