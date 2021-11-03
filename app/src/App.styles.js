@@ -109,14 +109,15 @@ margin-top : 16px;
 ::-webkit-scrollbar{
     width 10px;
     
-};
-::-webkit-scrollbar-track{
-
-};
+}
+::-webkit-scrollbar-track {
+    margin-top: 50px;
+    margin-bottom: 90px;
+}
 ::-webkit-scrollbar-thumb{
     background: rgba(5, 5, 5, 0.2);
     border-radius: 100px;
-    min-height: 96px;
+    margin-left :20px;
 };
 `
 
